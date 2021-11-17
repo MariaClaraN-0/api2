@@ -1,1 +1,1 @@
-{"client":"Thunder Client","environmentName":"localhost","dateExported":"2021-11-12T01:32:22.336Z","version":"1.0","variables":[{"name":"uri","value":"localhost:3000"}]}
+{"client":"Thunder Client","environmentName":"localhost","dateExported":"2021-11-17T14:43:12.148Z","version":"1.0","variables":[{"name":"cidades","value":"https://proj02-back-mongo-atlas.herokuapp.com/cidades"},{"name":"paises","value":"https://proj02-back-mongo-atlas.herokuapp.com/paises"},{"name":"estados","value":"https://proj02-back-mongo-atlas.herokuapp.com/estados"}]}

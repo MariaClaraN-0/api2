@@ -24,9 +24,9 @@ https://nodemongoatlas.herokuapp.com/cities/listname/INSIRA O NOME DO ESTADO
 https://proj02-back-mongo-atlas.herokuapp.com/estados/add
 /update/id (Método [PUT] para editar uma cidade que já exista no banco de dados) :
 
-https://proj02-back-mongo-atlas.herokuapp.com/estados/update/INSERIR O ID DA CIDADE
+https://proj02-back-mongo-atlas.herokuapp.com/estados/update/INSERIR O ID DO ESTADO
 delete/id (Método [DELETE] para apagar uma cidade que já exista no banco de dados) :
 
-https://proj02-back-mongo-atlas.herokuapp.com/estados/delete/INSERIR O ID DA CIDADE
+https://proj02-back-mongo-atlas.herokuapp.com/estados/delete/INSERIR O ID DO ESTADO
 Pronto! Agora já conseguimos usar nossa rota estados e suas sub-rotas!
 ​ O mesmo se aplica a cidades e paises
